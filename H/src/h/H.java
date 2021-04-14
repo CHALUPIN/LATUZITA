@@ -7,7 +7,7 @@ package h;
 
 /**
  *
- * @author enriq
+ * @author enrique
  */
 public class H {
 
